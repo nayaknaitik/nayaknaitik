@@ -45,16 +45,7 @@ I care about understanding systems deeply, optimizing them, and shipping things 
 - **Daily Goals Tracker** – Full-stack CRUD app with streak system (React + Node + MongoDB)  
 - **Task Tracker API** – Spring Boot + H2 with proper layered architecture  
 
----
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nayaknaitik&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaknaitik&layout=compact&theme=transparent&hide_border=true" height="150" />
-</p>
-
----
 
 ## 📫 Let’s Connect
 
