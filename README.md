@@ -1,37 +1,49 @@
 # 👋 Hey, I'm Naitik
 
-Full-stack developer who loves building **real-time apps**, **RAG systems**, and **practical tools** that actually solve problems.  
-I’m obsessed with understanding how things work under the hood — not just making them “run”.
+Full-stack developer who builds **real-time applications**, **RAG systems**, and **tools that actually solve problems** — not just look fancy.  
+I care about understanding systems deeply, optimizing them, and shipping things that work reliably.
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 🚀 Backend
-- Node.js • Express  
-- Spring Boot • Java  
-- FastAPI • Python  
-- MongoDB • PostgreSQL
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+</p>
 
 ### 🎨 Frontend
-- React (Vite)  
-- Tailwind CSS  
-- Next.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</p>
 
-### ⚙️ DevOps
-- Docker  
-- Ubuntu  
-- Git & GitHub  
-- AWS (learning)
+### ⚙️ DevOps & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-- **Tagore ChatBot RAG Agent** – Custom RAG pipeline using LangChain, FastAPI, embeddings, and vector search  
+- **Tagore ChatBot RAG Agent** – RAG pipeline with LangChain, FastAPI, embeddings, and vector DB  
 - **Live Code Debugging Tool** – Real-time collaborative debugging using Socket.IO + React  
 - **Daily Goals Tracker** – Full-stack CRUD app with streak system (React + Node + MongoDB)  
-- **Task Tracker API** – Spring Boot application with H2, CRUD, and service-layer architecture  
+- **Task Tracker API** – Spring Boot + H2 with proper layered architecture  
 
 ---
 
@@ -46,9 +58,9 @@ I’m obsessed with understanding how things work under the hood — not just ma
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** *https://www.linkedin.com/in/naitiknayak/*
-- **Email:** *naitiknayak009@gmail.com*
+- **LinkedIn:** https://www.linkedin.com/in/naitiknayak/  
+- **Email:** naitiknayak009@gmail.com  
 
 ---
 
-⭐ _If any of my projects helped you, consider dropping a star — it keeps me building cool stuff._
+⭐ _Found something valuable? Drop a star — it motivates me to build more useful things._
