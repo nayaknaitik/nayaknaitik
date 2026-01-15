@@ -50,7 +50,8 @@ I care about understanding systems deeply, optimizing them, and shipping things 
 ## 📫 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/naitiknayak/  
-- **Email:** naitiknayak009@gmail.com  
+- **Email:** naitiknayak009@gmail.com
+- **PortFolio:** https://naitikdev.vercel.app/
 
 ---
 
