@@ -1,58 +1,66 @@
-# 👋 Hey, I'm Naitik
+# Hi, I’m Naitik 👋
 
-Full-stack developer who builds **real-time applications**, **RAG systems**, and **tools that actually solve problems** — not just look fancy.  
-I care about understanding systems deeply, optimizing them, and shipping things that work reliably.
-
----
-
-## ⚡ Tech Stack
-
-### 🚀 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-</p>
+I’m a developer focused on building **AI-powered systems**, **backend-first applications**, and **practical tools** that solve real problems.  
+I care about understanding systems deeply — how data moves, how AI is integrated, and how software behaves in production.
 
 ---
 
-## 🔥 Featured Projects
+## What I Work On
 
-- **Tagore ChatBot RAG Agent** – RAG pipeline with LangChain, FastAPI, embeddings, and vector DB  
-- **Live Code Debugging Tool** – Real-time collaborative debugging using Socket.IO + React  
-- **Daily Goals Tracker** – Full-stack CRUD app with streak system (React + Node + MongoDB)  
-- **Task Tracker API** – Spring Boot + H2 with proper layered architecture  
+- **AI Agents & RAG Systems**  
+  Building LangChain-based agents, retrieval pipelines, embeddings, and vector search systems.
 
+- **Backend Engineering**  
+  Designing clean APIs, handling business logic, databases, and scalable architectures.
 
-
-## 📫 Let’s Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/naitiknayak/  
-- **Email:** naitiknayak009@gmail.com
-- **PortFolio:** https://naitikdev.vercel.app/
+- **Full-Stack (When Needed)**  
+  Frontends that support functionality and clarity, not unnecessary complexity.
 
 ---
 
-⭐ _Found something valuable? Drop a star — it motivates me to build more useful things._
+## Tech Stack
+
+### AI & Backend
+- Python, FastAPI, Flask  
+- LangChain, RAG pipelines, Vector Databases  
+- Node.js, Express  
+- Java, Spring Boot  
+
+### Frontend
+- React  
+- Next.js  
+- Tailwind CSS  
+
+### DevOps & Tools
+- Docker  
+- Linux  
+- AWS  
+- Git, GitHub  
+
+---
+
+## Featured Projects
+
+- **AI Virtual Career Counselor**  
+  AI-driven career guidance system built with Flask as part of an AWS Capstone project.
+
+- **Tagore ChatBot (RAG Agent)**  
+  Retrieval-Augmented Generation system using LangChain, embeddings, vector DB, and FastAPI.
+
+- **Live Code Debugging Tool**  
+  Real-time collaborative debugging platform using Socket.IO and React.
+
+- **Daily Goals & Task Trackers**  
+  Backend-focused CRUD applications demonstrating clean architecture and deployment.
+
+---
+
+## Connect
+
+- **Portfolio:** https://naitikdev.vercel.app  
+- **LinkedIn:** https://www.linkedin.com/in/naitiknayak  
+- **Email:** naitiknayak009@gmail.com  
+
+---
+
+I build to learn deeply, optimize systems, and ship software that works reliably.
