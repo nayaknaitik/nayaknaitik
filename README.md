@@ -1,66 +1,80 @@
-# Hi, I’m Naitik 👋
+# NAITIK KUMAR NAYAK
+=====================
 
-I’m a developer focused on building **AI-powered systems**, **backend-first applications**, and **practical tools** that solve real problems.  
-I care about understanding systems deeply — how data moves, how AI is integrated, and how software behaves in production.
+Passionate about building scalable backend systems and polished developer-focused applications.  
+Focused on creating clean, reliable, and performant software.
 
----
+---------------  
+## Connect With Me
 
-## What I Work On
+» Email        → naitiknayak009@gmail.com  
+» GitHub       → https://github.com/nayaknaitik  
+» LinkedIn     → https://linkedin.com/in/naitiknayak  
+» LeetCode     → https://leetcode.com/u/naitik_nayak  
 
-- **AI Agents & RAG Systems**  
-  Building LangChain-based agents, retrieval pipelines, embeddings, and vector search systems.
+--------------  
+## Skills & Tools
 
-- **Backend Engineering**  
-  Designing clean APIs, handling business logic, databases, and scalable architectures.
+» **Languages:** Java, Python, TypeScript, SQL  
+» **Backend:** Spring Boot, Node.js (Fastify, Express), REST APIs, JWT  
+» **Frontend:** React.js, Vite, Tailwind CSS, Monaco Editor  
+» **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+» **DevOps & Tools:** Docker, AWS (EC2, RDS), Git, Linux, Redis Streams  
 
-- **Full-Stack (When Needed)**  
-  Frontends that support functionality and clarity, not unnecessary complexity.
+-----------------  
+## Experience
 
----
+### ● Software Development Engineer Intern  
+**Innovative Cancer Care and Rehabilitation Pvt. Ltd.** | Apr 2025 – Present  
 
-## Tech Stack
+✦ Built a patient management system for clinic workflows including appointments, medical records, and treatment tracking.  
+✦ Developed 30+ REST APIs using Spring Boot with JWT authentication and role-based access control.  
+✦ Integrated PayU payment gateway with webhook validation, reducing payment failures from **12% → 4%**.  
+✦ Deployed on AWS EC2 with PostgreSQL RDS and optimized queries, improving search latency from **850ms → 320ms**.
 
-### AI & Backend
-- Python, FastAPI, Flask  
-- LangChain, RAG pipelines, Vector Databases  
-- Node.js, Express  
-- Java, Spring Boot  
+-----------------  
+## Projects
 
-### Frontend
-- React  
-- Next.js  
-- Tailwind CSS  
+### ● Event-Driven Notification Service  
+**Tech Stack:** Java, Spring Boot, Redis Streams, PostgreSQL, Docker  
 
-### DevOps & Tools
-- Docker  
-- Linux  
-- AWS  
-- Git, GitHub  
-
----
-
-## Featured Projects
-
-- **AI Virtual Career Counselor**  
-  AI-driven career guidance system built with Flask as part of an AWS Capstone project.
-
-- **Tagore ChatBot (RAG Agent)**  
-  Retrieval-Augmented Generation system using LangChain, embeddings, vector DB, and FastAPI.
-
-- **Live Code Debugging Tool**  
-  Real-time collaborative debugging platform using Socket.IO and React.
-
-- **Daily Goals & Task Trackers**  
-  Backend-focused CRUD applications demonstrating clean architecture and deployment.
+✦ Designed asynchronous notification pipeline using Redis Streams.  
+✦ Implemented consumer groups, idempotency checks, and Dead Letter Queue handling.  
+✦ Load tested with 500 concurrent requests while maintaining ~180ms response time.
 
 ---
 
-## Connect
+### ● AI Code Assistant  
+**Tech Stack:** React, Fastify, Groq LLM API, JWT, Tailwind CSS, Monaco Editor  
 
-- **Portfolio:** https://naitikdev.vercel.app  
-- **LinkedIn:** https://www.linkedin.com/in/naitiknayak  
-- **Email:** naitiknayak009@gmail.com  
+✦ Built web-based AI code editor supporting explanations, bug detection, refactoring, and conversion.  
+✦ Implemented JWT sessions and rate limiting for cost control.  
+✦ Integrated Monaco Editor with multi-language support and diff previews.  
+✦ Optimized inference latency using Mixtral-8x7B model.
 
 ---
 
-I build to learn deeply, optimize systems, and ship software that works reliably.
+### ● SlotSwapper — Time Slot Exchange Platform  
+**Tech Stack:** React, Node.js (Express), PostgreSQL, Docker  
+
+✦ Developed scheduling system for students to exchange class slots.  
+✦ Used PostgreSQL transactions & row-level locking to prevent race conditions.  
+✦ Designed admin dashboard with analytics and activity logs.
+
+-----------------  
+## Achievements
+
+✦ LeetCode Rating **1600+ (Top 21% globally)**, 400+ problems solved  
+✦ Best Coder — Data Structures & Algorithms (2024)  
+✦ Best Full-Stack Developer — Department of AI & AIML (2025)
+
+-----------------  
+## Leadership & Activities
+
+✦ Coordinator, Ek-Prayass Club — Organized coding outreach for 150+ students  
+✦ Conducted Git & GitHub workshop for 60+ students
+
+--------------------------  
+Thanks for visiting!
+
+Open to collaborations, ideas, and interesting projects.
