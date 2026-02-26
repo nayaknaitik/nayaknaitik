@@ -68,13 +68,6 @@ Focused on creating clean, reliable, and performant software.
 ✦ Best Coder — Data Structures & Algorithms (2024)  
 ✦ Best Full-Stack Developer — Department of AI & AIML (2025)
 
------------------  
-## Leadership & Activities
-
-✦ Coordinator, Ek-Prayass Club — Organized coding outreach for 150+ students  
-✦ Conducted Git & GitHub workshop for 60+ students
-
---------------------------  
 Thanks for visiting!
 
 Open to collaborations, ideas, and interesting projects.
