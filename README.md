@@ -1,73 +1,52 @@
+<div align="center">
+
 # NAITIK KUMAR NAYAK
-=====================
 
-Passionate about building scalable backend systems and polished developer-focused applications.  
-Focused on creating clean, reliable, and performant software.
+### Building systems that survive real users, real scale, and real production problems.
 
----------------  
-## Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Spring+Boot+%7C+Node.js+%7C+React;I+like+building+systems+that+actually+work;Clean+APIs.+Reliable+Architecture.+Real+Products." alt="Typing SVG" />
 
-» Email        → naitiknayak009@gmail.com  
-» GitHub       → https://github.com/nayaknaitik  
-» LinkedIn     → https://linkedin.com/in/naitiknayak  
-» LeetCode     → https://leetcode.com/u/naitik_nayak  
-
---------------  
-## Skills & Tools
-
-» **Languages:** Java, Python, TypeScript, SQL  
-» **Backend:** Spring Boot, Node.js (Fastify, Express), REST APIs, JWT  
-» **Frontend:** React.js, Vite, Tailwind CSS, Monaco Editor  
-» **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-» **DevOps & Tools:** Docker, AWS (EC2, RDS), Git, Linux, Redis Streams  
-
------------------  
-## Experience
-
-### ● Software Development Engineer Intern  
-**Innovative Cancer Care and Rehabilitation Pvt. Ltd.** | Apr 2025 – Present  
-
-✦ Built a patient management system for clinic workflows including appointments, medical records, and treatment tracking.  
-✦ Developed 30+ REST APIs using Spring Boot with JWT authentication and role-based access control.  
-✦ Integrated PayU payment gateway with webhook validation, reducing payment failures from **12% → 4%**.  
-✦ Deployed on AWS EC2 with PostgreSQL RDS and optimized queries, improving search latency from **850ms → 320ms**.
-
------------------  
-## Projects
-
-### ● Event-Driven Notification Service  
-**Tech Stack:** Java, Spring Boot, Redis Streams, PostgreSQL, Docker  
-
-✦ Designed asynchronous notification pipeline using Redis Streams.  
-✦ Implemented consumer groups, idempotency checks, and Dead Letter Queue handling.  
-✦ Load tested with 500 concurrent requests while maintaining ~180ms response time.
+</div>
 
 ---
 
-### ● AI Code Assistant  
-**Tech Stack:** React, Fastify, Groq LLM API, JWT, Tailwind CSS, Monaco Editor  
+## About Me
 
-✦ Built web-based AI code editor supporting explanations, bug detection, refactoring, and conversion.  
-✦ Implemented JWT sessions and rate limiting for cost control.  
-✦ Integrated Monaco Editor with multi-language support and diff previews.  
-✦ Optimized inference latency using Mixtral-8x7B model.
+I enjoy building backend-heavy applications where architecture actually matters.
+
+Most of my work revolves around:
+- designing APIs
+- solving performance bottlenecks
+- building production-ready systems
+- writing maintainable code
+- making frontend + backend work together cleanly
+
+I like projects where there are:
+- real users
+- real data
+- concurrency problems
+- scaling challenges
+- async workflows
+- system design decisions
+
+Currently focused on:
+- scalable backend engineering
+- Spring Boot ecosystem
+- distributed systems concepts
+- Docker & cloud deployments
+- production-grade full stack architecture
 
 ---
 
-### ● SlotSwapper — Time Slot Exchange Platform  
-**Tech Stack:** React, Node.js (Express), PostgreSQL, Docker  
+## What I Like Building
 
-✦ Developed scheduling system for students to exchange class slots.  
-✦ Used PostgreSQL transactions & row-level locking to prevent race conditions.  
-✦ Designed admin dashboard with analytics and activity logs.
-
------------------  
-## Achievements
-
-✦ LeetCode Rating **1600+ (Top 21% globally)**, 400+ problems solved  
-✦ Best Coder — Data Structures & Algorithms (2024)  
-✦ Best Full-Stack Developer — Department of AI & AIML (2025)
-
-Thanks for visiting!
-
-Open to collaborations, ideas, and interesting projects.
+```txt
+✓ Backend Systems
+✓ Real-Time Applications
+✓ AI-Powered Developer Tools
+✓ Authentication & Security Flows
+✓ Payment Integrations
+✓ Async Processing Pipelines
+✓ Internal Dashboards
+✓ Developer Experience Focused Products
+✓ Performance Optimized APIs
