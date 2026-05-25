@@ -48,19 +48,7 @@ i care about latency, failure handling, and writing code other people can actual
 <div align="center">
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=nayaknaitik&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=555555&hide=contribs&rank_icon=github" />
-&nbsp;
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaknaitik&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555" />
 
-<br/><br/>
-
-[![leetcode card](https://leetcard.jacoblin.cool/naitik_nayak?theme=light&font=JetBrains%20Mono&ext=heatmap&border=0&radius=4)](https://leetcode.com/u/naitik_nayak)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=nayaknaitik&style=flat-square&color=000000&label=visitors)
-
-<br/>
 
 </div>
 
