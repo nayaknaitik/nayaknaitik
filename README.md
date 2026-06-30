@@ -54,23 +54,6 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nayaknaitik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naitik's GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaknaitik&layout=compact&theme=tokyonight&hide_border=true" alt="Naitik's Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-* 💡 **LeetCode Metrics:** 534+ problems solved | 1600+ rating | Top 21% globally.
-
 ---
 
 <div align="center">
